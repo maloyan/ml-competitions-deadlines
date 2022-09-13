@@ -23,3 +23,15 @@
   prize: "60000$"
   note: 🌍 Worldwide
   platform: Kaggle
+
+- title: Feedback Prize - English Language Learning
+  id: feedback-prize-english-language-learning
+  link: https://www.kaggle.com/competitions/feedback-prize-english-language-learning
+  date: Aug 30 - Nov 22, 2022
+  timezone: UTC
+  start: 2022-08-30
+  end: 2022-09-22
+  sub: NLP
+  prize: "55000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
