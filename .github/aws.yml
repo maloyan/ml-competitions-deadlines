@@ -25,10 +25,10 @@ jobs:
     environment: production
 
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@main
 
     - name: Enter the server
-      uses: appleboy/ssh-action@master
+      uses: appleboy/ssh-action@main
       with:
         host: ${{ secrets.AWS_HOST }}
         username: ubuntu
