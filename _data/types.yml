@@ -1,0 +1,19 @@
+---
+- name: Table data
+  sub: Table
+  color: "#ffd300"
+- name: Computer Vision
+  sub: CV
+  color: "#deff0a"
+- name: Natural Language Processing
+  sub: NLP
+  color: "#147df5"
+- name: Reinforcement Learning
+  sub: RL
+  color: "#ff6800"
+- name: Speech & Signal Processing
+  sub: Audio
+  color: "#580aff"
+- name: Data Mining
+  sub: DM
+  color: "#be0aff"

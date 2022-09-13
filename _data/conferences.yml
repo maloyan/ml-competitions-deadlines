@@ -1,0 +1,21 @@
+---
+
+- title: Big Data Derby 2022
+  id: big-data-derby-2022
+  link: https://www.kaggle.com/competitions/big-data-derby-2022
+  date: Sep 11 - Nov 10, 2022
+  timezone: UTC
+  start: 2022-09-11
+  end: 2022-11-10
+  sub: Table
+  prize: "50000$"
+
+- title: HuBMAP + HPA - Hacking the Human Body
+  id: hubmap-organ-segmentation
+  link: https://www.kaggle.com/competitions/hubmap-organ-segmentation
+  date: Jun 22 - Sep 22, 2022
+  timezone: UTC
+  start: 2022-06-22
+  end: 2022-09-22
+  sub: CV
+  prize: "60000$"
