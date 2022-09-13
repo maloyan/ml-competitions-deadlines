@@ -17,3 +17,6 @@
 - name: Data Mining
   sub: DM
   color: "#be0aff"
+- name: RecSys
+  sub: recsys
+  color: "#ba7fa2"

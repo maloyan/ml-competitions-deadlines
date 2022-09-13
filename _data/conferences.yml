@@ -9,6 +9,8 @@
   end: 2022-11-10
   sub: Table
   prize: "50000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
 
 - title: HuBMAP + HPA - Hacking the Human Body
   id: hubmap-organ-segmentation
@@ -19,3 +21,5 @@
   end: 2022-09-22
   sub: CV
   prize: "60000$"
+  note: 🌍 Worldwide
+  platform: Kaggle

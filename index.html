@@ -70,10 +70,10 @@
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
-                      <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/conference?id={{ conf.id }}">{{conf.title}} {{conf.year}}</a>
+                      <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/conference?id={{ conf.id }}">{{conf.title}}</a>
                   </span>
                   <span class="conf-title-small">
-                      <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/conference?id={{ conf.id }}">{{conf.title}} '{{conf.year | slice: -2, 3}}</a>
+                      <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/conference?id={{ conf.id }}">{{conf.title}}</a>
                   </span>
                   <span class="conf-title-icon">
                     <a title="Conference Website" href="{{conf.link}}" target="_blank"><img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
@@ -94,27 +94,32 @@
                 </div>
             </div>
             <div class="row">
-              <!-- <div class="col-12 col-sm-6">
-                <div class="meta">
+              <div class="col-12 col-sm-6">
+                <!-- <div class="meta">
                   <span class="conf-date">{{conf.date}}.</span>
-                </div>
+                </div> -->
+                {% if conf.platform %}
+                  <div class="platform">
+                      <b>Platform: </b>{{conf.platform}}
+                  </div>
+                {% endif %}
                 {% if conf.note %}
                   <div class="note">
-                      <b>Note: </b>{{conf.note}}
+                    <b>Other: </b>{{conf.note}}
                   </div>
                 {% endif %}
 
-              </div> -->
+              </div>
               <div class="col-12 col-sm-6">
                 <div class="prize">
-                  <div>Prize:
+                  <div><b>Prize: </b>
                     <span class="prize">{{conf.prize}}</span>
                   </div>
                 </div>
               </div>
               <div class="col-12 col-sm-6">
                 <div class="deadline">
-                  <div>Deadline:
+                  <div><b>Deadline: </b>
                     <span class="deadline-time"></span>
                   </div>
                 </div>
@@ -201,7 +206,7 @@
           // add calendar button
           var myCalendar = createCalendarFromObject({
             id:  '{{conf.id}}',
-            title: '{{conf.title}} {{conf.year}} deadline',
+            title: '{{conf.title}} deadline',
             date: confDate.toDate(),
             duration: 60,
           })
