@@ -35,3 +35,63 @@
   prize: "55000$"
   note: 🌍 Worldwide
   platform: Kaggle
+
+- title: Google Universal Image Embedding
+  id: google-universal-image-embedding
+  link: https://www.kaggle.com/competitions/google-universal-image-embedding
+  date: Jul 11 - Oct 10, 2022
+  timezone: UTC
+  start: 2022-07-11
+  end: 2022-10-10
+  sub: CV
+  prize: "50000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
+
+- title: RSNA 2022 Cervical Spine Fracture Detection
+  id: rsna-2022-cervical-spine-fracture-detection
+  link: https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection
+  date: Jul 28 - Oct 20, 2022
+  timezone: UTC
+  start: 2022-07-28
+  end: 2022-10-20
+  sub: CV
+  prize: "30000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
+
+- title: DFL - Bundesliga Data Shootout
+  id: dfl-bundesliga-data-shootout
+  link: https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout
+  date: Jul 29 - Oct 6, 2022
+  timezone: UTC
+  start: 2022-07-29
+  end: 2022-10-06
+  sub: CV
+  prize: "25000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
+
+- title: Open Problems - Multimodal Single-Cell Integration
+  id: open-problems-multimodal
+  link: https://www.kaggle.com/competitions/open-problems-multimodal
+  date: Aug 15 - Nov 15, 2022
+  timezone: UTC
+  start: 2022-08-15
+  end: 2022-11-06
+  sub: Table
+  prize: "25000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
+
+- title: Mayo Clinic - STRIP AI
+  id: mayo-clinic-strip-ai
+  link: https://www.kaggle.com/competitions/mayo-clinic-strip-ai
+  date: Jul 6 - Oct 5, 2022
+  timezone: UTC
+  start: 2022-07-06
+  end: 2022-10-05
+  sub: CV
+  prize: "10000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
