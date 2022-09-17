@@ -1,5 +1,139 @@
 ---
 
+- title: Mars Spectrometry 2 Gas Chromatography
+  id: nasa-mars-gcms
+  link: https://www.drivendata.org/competitions/97/nasa-mars-gcms
+  date: Aug 31 - Oct 31, 2022
+  timezone: UTC
+  start: 2022-08-31
+  end: 2022-10-31
+  sub: CV
+  prize: "30000$"
+  note: 🌍 Worldwide
+  platform: DrivenData
+
+- title: PETs Prize Challenge Advancing Privacy-Preserving Federated Learning
+  id: nist-federated-learning-1
+  link: https://www.drivendata.org/competitions/98/nist-federated-learning-1
+  date: Jul 20 - Oct 24, 2022
+  timezone: UTC
+  start: 2022-07-20
+  end: 2022-10-24
+  sub: Table
+  prize: "20000$"
+  note: 🌍 Worldwide
+  platform: DrivenData
+
+- title: NeurIPS 2022 MineRL BASALT Competition
+  id: neurips-2022-minerl-basalt-competition
+  link: https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition
+  date: Jul 22 - Oct 28, 2022
+  timezone: UTC
+  start: 2022-07-22
+  end: 2022-10-28
+  sub: RL
+  prize: "20000$"
+  note: 🌍 Worldwide
+  platform: AirCrowd
+
+- title: NeurIPS 2022 IGLU Challenge
+  id: neurips-2022-iglu-challenge
+  link: https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge
+  date: Jul 18 - Oct 31, 2022
+  timezone: UTC
+  start: 2022-07-18
+  end: 2022-10-31
+  sub: NLP
+  prize: "15000$"
+  note: 🌍 Worldwide
+  platform: AirCrowd
+
+
+- title: NeurIPS 2022 - CityLearn Challenge
+  id: neurips-2022-citylearn-challenge
+  link: https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge
+  date: Jul 18 - Oct 31, 2022
+  timezone: UTC
+  start: 2022-07-18
+  end: 2022-10-31
+  sub: Table
+  prize: "15000$"
+  note: 🌍 Worldwide
+  platform: AirCrowd
+
+- title: MUFG Data Science Championship
+  id: mufg-data-science-championship
+  link: https://signate.jp/competitions/754#abstract
+  date: Sep 1 - Sep 22, 2022
+  timezone: UTC
+  start: 2022-09-01
+  end: 2022-09-22
+  sub: Table
+  prize: "530000¥ (~3600$)"
+  note: 🌍 Worldwide
+  platform: Signate
+
+- title: Layer.ai Air Quality Prediction Challenge
+  id: layerai-air-quality-prediction-challenge
+  link: https://zindi.africa/competitions/layerai-air-quality-prediction-challenge
+  date: Sep 1 - Oct 02, 2022
+  timezone: UTC
+  start: 2022-09-01
+  end: 2022-10-02
+  sub: Table
+  prize: "3000$"
+  note: 🌍 Worldwide
+  platform: Zindi
+
+- title: AgriFieldNet India Challenge
+  id: agrifieldnet-india-challenge
+  link: https://zindi.africa/competitions/agrifieldnet-india-challenge
+  date: Sep 1 - Oct 31, 2022
+  timezone: UTC
+  start: 2022-09-01
+  end: 2022-10-31
+  sub: CV
+  prize: "10000$"
+  note: 🌍 Worldwide
+  platform: Zindi
+
+- title: AETA Earthquake Prediction AI Algorithm Competition
+  id: earthqauke-prediction-ai-algorithm-competition
+  link: https://tianchi.aliyun.com/competition/entrance/531972/introduction?spm=5176.12281949.0.0.493e539drNv5oB
+  date: Jul 1 - Dec 31, 2022
+  timezone: UTC
+  start: 2022-06-01
+  end: 2022-12-31
+  sub: Table
+  prize: "100000￥ (~700$)"
+  note: 🌍 Worldwide
+  platform: Tianchi
+
+- title: UNiLAB Algorithm Competition Track 1 - SRP for high-frequency load data
+  id: srp-for-high-frequency-load-data
+  link: https://tianchi.aliyun.com/competition/entrance/532020/introduction?spm=5176.12281949.0.0.493e539drNv5oB
+  date: Sep 1 - Nov 25, 2022
+  timezone: UTC
+  start: 2022-09-01
+  end: 2022-11-25
+  sub: Table
+  prize: "180000￥ (~1250$)"
+  note: 🌍 Worldwide
+  platform: Tianchi
+
+
+- title: UNiLAB Algorithm Competition Track 3 - Prediction of Generated Renewable Energy
+  id: prediction-of-generated-renewable-energy
+  link: https://tianchi.aliyun.com/competition/entrance/532022/introduction?spm=5176.12281949.0.0.493e539drNv5oB
+  date: Sep 1 - Nov 25, 2022
+  timezone: UTC
+  start: 2022-09-01
+  end: 2022-11-25
+  sub: Table
+  prize: "180000￥ (~1250$)"
+  note: 🌍 Worldwide
+  platform: Tianchi
+
 - title: Big Data Derby 2022
   id: big-data-derby-2022
   link: https://www.kaggle.com/competitions/big-data-derby-2022
