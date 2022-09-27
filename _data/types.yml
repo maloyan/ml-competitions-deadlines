@@ -14,9 +14,6 @@
 - name: Speech & Signal Processing
   sub: AUDIO
   color: "#580aff"
-- name: Data Mining
-  sub: DM
-  color: "#be0aff"
 - name: Recommendation System
   sub: RECSYS
   color: "#ba7fa2"
