@@ -1,5 +1,17 @@
 ---
 
+- title: Novozymes Enzyme Stability Prediction
+  id: novozymes-enzyme-stability-prediction
+  link: https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction
+  date: Sep 21 - Dec 27, 2022
+  timezone: UTC
+  start: 2022-09-21
+  end: 2022-12-27
+  sub: Table
+  prize: "25000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
+
 - title: Mars Spectrometry 2 Gas Chromatography
   id: nasa-mars-gcms
   link: https://www.drivendata.org/competitions/97/nasa-mars-gcms
