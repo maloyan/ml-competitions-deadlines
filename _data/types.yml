@@ -1,6 +1,6 @@
 ---
 - name: Table data
-  sub: Table
+  sub: TABLE
   color: "#ffd300"
 - name: Computer Vision
   sub: CV
@@ -12,11 +12,11 @@
   sub: RL
   color: "#ff6800"
 - name: Speech & Signal Processing
-  sub: Audio
+  sub: AUDIO
   color: "#580aff"
 - name: Data Mining
   sub: DM
   color: "#be0aff"
-- name: RecSys
-  sub: recsys
+- name: Recommendation System
+  sub: RECSYS
   color: "#ba7fa2"
