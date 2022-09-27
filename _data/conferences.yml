@@ -7,7 +7,7 @@
   timezone: UTC
   start: 2022-09-21
   end: 2022-12-27
-  sub: Table
+  sub: TABLE
   prize: "25000$"
   note: 🌍 Worldwide
   platform: Kaggle
@@ -31,7 +31,7 @@
   timezone: UTC
   start: 2022-07-20
   end: 2022-10-24
-  sub: Table
+  sub: TABLE
   prize: "20000$"
   note: 🌍 Worldwide
   platform: DrivenData
@@ -68,7 +68,7 @@
   timezone: UTC
   start: 2022-07-18
   end: 2022-10-31
-  sub: Table
+  sub: TABLE
   prize: "15000$"
   note: 🌍 Worldwide
   platform: AirCrowd
@@ -80,7 +80,7 @@
   timezone: UTC
   start: 2022-09-01
   end: 2022-09-22
-  sub: Table
+  sub: TABLE
   prize: "530000¥ (~3600$)"
   note: 🌍 Worldwide
   platform: Signate
@@ -92,7 +92,7 @@
   timezone: UTC
   start: 2022-09-01
   end: 2022-10-02
-  sub: Table
+  sub: TABLE
   prize: "3000$"
   note: 🌍 Worldwide
   platform: Zindi
@@ -116,7 +116,7 @@
   timezone: UTC
   start: 2022-06-01
   end: 2022-12-31
-  sub: Table
+  sub: TABLE
   prize: "100000￥ (~700$)"
   note: 🌍 Worldwide
   platform: Tianchi
@@ -128,7 +128,7 @@
   timezone: UTC
   start: 2022-09-01
   end: 2022-11-25
-  sub: Table
+  sub: TABLE
   prize: "180000￥ (~1250$)"
   note: 🌍 Worldwide
   platform: Tianchi
@@ -141,7 +141,7 @@
   timezone: UTC
   start: 2022-09-01
   end: 2022-11-25
-  sub: Table
+  sub: TABLE
   prize: "180000￥ (~1250$)"
   note: 🌍 Worldwide
   platform: Tianchi
@@ -153,7 +153,7 @@
   timezone: UTC
   start: 2022-09-11
   end: 2022-11-10
-  sub: Table
+  sub: TABLE
   prize: "50000$"
   note: 🌍 Worldwide
   platform: Kaggle
@@ -225,7 +225,7 @@
   timezone: UTC
   start: 2022-08-15
   end: 2022-11-06
-  sub: Table
+  sub: TABLE
   prize: "25000$"
   note: 🌍 Worldwide
   platform: Kaggle
