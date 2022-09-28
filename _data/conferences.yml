@@ -96,6 +96,7 @@
   prize: "3000$"
   note: 🌍 Worldwide
   platform: Zindi
+  image: https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/285/thumb_92ad8c13-0143-4042-9ff4-f599e37c9959.png
 
 - title: AgriFieldNet India Challenge
   id: agrifieldnet-india-challenge
@@ -176,11 +177,12 @@
   date: Aug 30 - Nov 22, 2022
   timezone: UTC
   start: 2022-08-30
-  end: 2022-09-22
+  end: 2022-11-22
   sub: NLP
   prize: "55000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-media/competitions/The%20Learning%20Agency/LabLogo_Kaggle.png
 
 - title: Google Universal Image Embedding
   id: google-universal-image-embedding
