@@ -11,6 +11,7 @@
   prize: "25000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-media/competitions/Novozymes/logo_novozymes.JPG
 
 - title: Mars Spectrometry 2 Gas Chromatography
   id: nasa-mars-gcms
@@ -23,6 +24,7 @@
   prize: "30000$"
   note: 🌍 Worldwide
   platform: DrivenData
+  image: https://s3.amazonaws.com/drivendata-public-assets/nasa-mars-curiosity.jpg
 
 - title: PETs Prize Challenge Advancing Privacy-Preserving Federated Learning
   id: nist-federated-learning-1
@@ -35,6 +37,7 @@
   prize: "20000$"
   note: 🌍 Worldwide
   platform: DrivenData
+  image: https://drivendata-public-assets.s3.amazonaws.com/nist-fl-pets-logo.jpg
 
 - title: NeurIPS 2022 MineRL BASALT Competition
   id: neurips-2022-minerl-basalt-competition
@@ -47,6 +50,7 @@
   prize: "20000$"
   note: 🌍 Worldwide
   platform: AirCrowd
+  image: https://images.aicrowd.com/images/challenges/image_file/1050/Preview-Card.png
 
 - title: NeurIPS 2022 IGLU Challenge
   id: neurips-2022-iglu-challenge
@@ -59,7 +63,7 @@
   prize: "15000$"
   note: 🌍 Worldwide
   platform: AirCrowd
-
+  image: https://images.aicrowd.com/images/challenges/image_file/1093/Preview-Cardj.png
 
 - title: NeurIPS 2022 - CityLearn Challenge
   id: neurips-2022-citylearn-challenge
@@ -72,6 +76,7 @@
   prize: "15000$"
   note: 🌍 Worldwide
   platform: AirCrowd
+  image: https://images.aicrowd.com/images/challenges/image_file/1086/Card_Banner.jpg
 
 - title: MUFG Data Science Championship
   id: mufg-data-science-championship
@@ -84,6 +89,7 @@
   prize: "530000¥ (~3600$)"
   note: 🌍 Worldwide
   platform: Signate
+  image: https://static.signate.jp/competitions/754/detail/xEwNMaYpdMkSICeaoJjNnPhfK4bo9cXWceC68LXk.jpg
 
 - title: Layer.ai Air Quality Prediction Challenge
   id: layerai-air-quality-prediction-challenge
@@ -109,6 +115,7 @@
   prize: "10000$"
   note: 🌍 Worldwide
   platform: Zindi
+  image: https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/302/thumb_eaa52f11-b9ba-42f1-88e0-430373242967.png
 
 - title: AETA Earthquake Prediction AI Algorithm Competition
   id: earthqauke-prediction-ai-algorithm-competition
@@ -133,7 +140,7 @@
   prize: "180000￥ (~1250$)"
   note: 🌍 Worldwide
   platform: Tianchi
-
+  image: https://img.alicdn.com/imgextra/i1/O1CN01IiN2Zp1YAkTrrTCUX_!!6000000003019-2-tps-1326-303.png
 
 - title: UNiLAB Algorithm Competition Track 3 - Prediction of Generated Renewable Energy
   id: prediction-of-generated-renewable-energy
@@ -146,6 +153,7 @@
   prize: "180000￥ (~1250$)"
   note: 🌍 Worldwide
   platform: Tianchi
+  image: https://img.alicdn.com/imgextra/i2/O1CN01MfpdRa29YgzCISABP_!!6000000008080-0-tps-1440-340.jpg
 
 - title: Big Data Derby 2022
   id: big-data-derby-2022
@@ -158,6 +166,7 @@
   prize: "50000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/3811/thumbnail.png
 
 - title: HuBMAP + HPA - Hacking the Human Body
   id: hubmap-organ-segmentation
@@ -170,6 +179,7 @@
   prize: "60000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/3808/thumbnail.png
 
 - title: Feedback Prize - English Language Learning
   id: feedback-prize-english-language-learning
@@ -195,6 +205,7 @@
   prize: "50000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/855/thumbnail.png?r=854
 
 - title: RSNA 2022 Cervical Spine Fracture Detection
   id: rsna-2022-cervical-spine-fracture-detection
@@ -207,6 +218,7 @@
   prize: "30000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/1817/thumbnail.png
 
 - title: DFL - Bundesliga Data Shootout
   id: dfl-bundesliga-data-shootout
@@ -219,6 +231,7 @@
   prize: "25000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/3810/thumbnail.png
 
 - title: Open Problems - Multimodal Single-Cell Integration
   id: open-problems-multimodal
@@ -231,6 +244,7 @@
   prize: "25000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/3813/thumbnail.png
 
 - title: Mayo Clinic - STRIP AI
   id: mayo-clinic-strip-ai
@@ -243,3 +257,4 @@
   prize: "10000$"
   note: 🌍 Worldwide
   platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/3809/thumbnail.png
