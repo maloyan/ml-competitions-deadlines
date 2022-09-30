@@ -1,5 +1,122 @@
 ---
 
+- title: AutoML Decathlon
+  id: automl-decathlon
+  link: https://codalab.lisn.upsaclay.fr/competitions/6325
+  date: Jul 16 - Nov 24, 2022
+  timezone: UTC
+  start: 2022-07-16
+  end: 2022-12-24
+  sub: META
+  prize: "50000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/a992af60-e40d-4d15-9a73-87e2bdc71ac6/logo.png
+
+- title: Trojan Detection Challenge - Evasive Trojans Track
+  id: trojan-detection-challenge-evasive-track
+  link: https://codalab.lisn.upsaclay.fr/competitions/5954
+  date: Jul 19 - Oct 23, 2022
+  timezone: UTC
+  start: 2022-07-19
+  end: 2022-10-23
+  sub: META
+  prize: "50000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/8445c532-d226-40d6-92c9-889ab28934b1/TDC_logo.png
+
+- title: Trojan Detection Challenge - Analysis Track (Trigger Synthesis)
+  id: trojan-detection-challenge-analysis-track-target-label
+  link: https://codalab.lisn.upsaclay.fr/competitions/5952
+  date: Jul 19 - Oct 23, 2022
+  timezone: UTC
+  start: 2022-07-19
+  end: 2022-10-23
+  sub: META
+  prize: "50000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/8445c532-d226-40d6-92c9-889ab28934b1/TDC_logo.png
+
+- title: Trojan Detection Challenge - Analysis Track (Trigger Synthesis)
+  id: trojan-detection-challenge-analysis-track-trigger-synthesis
+  link: https://codalab.lisn.upsaclay.fr/competitions/5953
+  date: Jul 19 - Oct 23, 2022
+  timezone: UTC
+  start: 2022-07-19
+  end: 2022-10-23
+  sub: META
+  prize: "50000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/8445c532-d226-40d6-92c9-889ab28934b1/TDC_logo.png
+
+- title: Trojan Detection Challenge - Detection Track
+  id: trojan-detection-challenge-detection-track
+  link: https://codalab.lisn.upsaclay.fr/competitions/5951
+  date: Jul 19 - Oct 23, 2022
+  timezone: UTC
+  start: 2022-07-19
+  end: 2022-10-23
+  sub: META
+  prize: "50000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/8445c532-d226-40d6-92c9-889ab28934b1/TDC_logo.png
+
+- title: ECCV 2022 Workshop SSLAD Track 1 - 2D object detection
+  id: eccv2022-workshop-sslad-track1
+  link: https://codalab.lisn.upsaclay.fr/competitions/6163
+  date: Aug 01 - Oct 08, 2022
+  timezone: UTC
+  start: 2022-08-01
+  end: 2022-10-08
+  sub: CV
+  prize: "10000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/03ca1f7a-9949-40df-a45f-4e0ab8c65058/noah_logo.png
+
+- title: ECCV 2022 Workshop SSLAD Track 2 - 3D Object Detection
+  id: eccv2022-workshop-sslad-track2
+  link: https://codalab.lisn.upsaclay.fr/competitions/6673
+  date: Aug 01 - Oct 08, 2022
+  timezone: UTC
+  start: 2022-08-01
+  end: 2022-10-08
+  sub: CV
+  prize: "10000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/03ca1f7a-9949-40df-a45f-4e0ab8c65058/noah_logo.png
+
+- title: ECCV 2022 Workshop SSLAD Track 3 - Corner Case Detection
+  id: eccv2022-workshop-sslad-track3
+  link: https://codalab.lisn.upsaclay.fr/competitions/6639
+  date: Aug 01 - Oct 08, 2022
+  timezone: UTC
+  start: 2022-08-01
+  end: 2022-10-08
+  sub: CV
+  prize: "10000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/03ca1f7a-9949-40df-a45f-4e0ab8c65058/noah_logo.png
+
+- title: ECCV 2022 Workshop SSLAD Track 5 - UNIFIED MODEL FOR MULTI-TASK LEARNING
+  id: eccv2022-workshop-sslad-track5
+  link: https://codalab.lisn.upsaclay.fr/competitions/6674
+  date: Aug 01 - Oct 08, 2022
+  timezone: UTC
+  start: 2022-08-01
+  end: 2022-10-08
+  sub: CV
+  prize: "10000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/03ca1f7a-9949-40df-a45f-4e0ab8c65058/noah_logo.png
+
 - title: PSG Challenge ECCV22 SenseHuman Workshop
   id: psg-challenge-eccv22
   link: https://codalab.lisn.upsaclay.fr/competitions/6734
