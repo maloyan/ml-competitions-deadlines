@@ -17,3 +17,6 @@
 - name: Recommendation System
   sub: RECSYS
   color: "#ba7fa2"
+- name: Meta Learning
+  sub: META
+  color: "#ff1493"

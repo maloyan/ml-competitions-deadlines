@@ -6,7 +6,7 @@
   timezone: UTC
   start: 2022-07-16
   end: 2022-12-24
-  sub: CV
+  sub: META
   prize: "50000$"
   note: 🌍 Worldwide
   platform: CodaLab
@@ -19,7 +19,7 @@
   timezone: UTC
   start: 2022-07-19
   end: 2022-10-23
-  sub: CV
+  sub: META
   prize: "50000$"
   note: 🌍 Worldwide
   platform: CodaLab
@@ -32,7 +32,7 @@
   timezone: UTC
   start: 2022-07-19
   end: 2022-10-23
-  sub: CV
+  sub: META
   prize: "50000$"
   note: 🌍 Worldwide
   platform: CodaLab
@@ -45,7 +45,7 @@
   timezone: UTC
   start: 2022-07-19
   end: 2022-10-23
-  sub: CV
+  sub: META
   prize: "50000$"
   note: 🌍 Worldwide
   platform: CodaLab
@@ -58,7 +58,7 @@
   timezone: UTC
   start: 2022-07-19
   end: 2022-10-23
-  sub: CV
+  sub: META
   prize: "50000$"
   note: 🌍 Worldwide
   platform: CodaLab
@@ -132,7 +132,7 @@
 - title: AfriSenti-SemEval 2023 Shared Task 12
   id: afrisenti-semeval-2023
   link: https://codalab.lisn.upsaclay.fr/competitions/7320
-  date: Sep 11 - Jan 31, 2023
+  date: Sep 11 2022 - Jan 31 2023
   timezone: UTC
   start: 2022-09-11
   end: 2023-01-31
