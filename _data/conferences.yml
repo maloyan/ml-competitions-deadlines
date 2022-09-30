@@ -1,5 +1,18 @@
 ---
 
+- title: PSG Challenge ECCV22 SenseHuman Workshop
+  id: psg-challenge-eccv22
+  link: https://codalab.lisn.upsaclay.fr/competitions/6734
+  date: Aug 06 - Oct 23, 2022
+  timezone: UTC
+  start: 2022-08-06
+  end: 2022-10-23
+  sub: NLP
+  prize: "150000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/3decd4db-fc34-47c9-b226-d3d0d8cf34cc/logo.png
+
 - title: AfriSenti-SemEval 2023 Shared Task 12
   id: afrisenti-semeval-2023
   link: https://codalab.lisn.upsaclay.fr/competitions/7320
