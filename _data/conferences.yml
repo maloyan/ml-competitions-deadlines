@@ -1,5 +1,31 @@
 ---
 
+- title: PSG Challenge @ ECCV'22 SenseHuman Workshop
+  id: psg-challenge-eccv22
+  link: https://codalab.lisn.upsaclay.fr/competitions/6734
+  date: Aug 06 - Oct 23, 2022
+  timezone: UTC
+  start: 2022-08-06
+  end: 2022-10-23
+  sub: NLP
+  prize: "150000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/3decd4db-fc34-47c9-b226-d3d0d8cf34cc/logo.png
+
+- title: AfriSenti-SemEval 2023 Shared Task 12
+  id: afrisenti-semeval-2023
+  link: https://codalab.lisn.upsaclay.fr/competitions/7320
+  date: Sep 11 2022 - Jan 31 2023
+  timezone: UTC
+  start: 2022-09-11
+  end: 2023-01-31
+  sub: NLP
+  prize: "5000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/c782fdc7-8b5a-490a-8d02-0cafccd75cd1/logo-afrisenti.png
+
 - title: Toloka Visual Question Answering Challenge (WSDM Cup 2023)
   id: toloka-vqa-wsdm-cup-2023
   link: https://codalab.lisn.upsaclay.fr/competitions/7434
