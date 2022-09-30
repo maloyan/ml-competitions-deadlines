@@ -1,5 +1,17 @@
 ---
 
+- title: Toloka Visual Question Answering Challenge (WSDM Cup 2023)
+  id: toloka-vqa-wsdm-cup-2023
+  link: https://codalab.lisn.upsaclay.fr/competitions/7434
+  date: Sep 16 - Dec 16, 2022
+  timezone: UTC
+  start: 2022-09-16
+  end: 2022-12-16
+  sub: CV
+  prize: "6000$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/91d2b1be-1b44-4da9-8851-f5b0b0a7b73a/logo.jpg
 
 - title: Novozymes Enzyme Stability Prediction
   id: novozymes-enzyme-stability-prediction
