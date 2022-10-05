@@ -1,5 +1,18 @@
 ---
 
+- title: G2Net Detecting Continuous Gravitational Waves
+  id: g2net-detecting-continuous-gravitational-waves
+  link: https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves
+  date: Oct 04 2022 - Jan 03 2023
+  timezone: UTC
+  start: 2022-10-04
+  end: 2023-01-03
+  sub: SIGNAL
+  prize: "25000$"
+  note: 🌍 Worldwide
+  platform: Kaggle
+  image: https://storage.googleapis.com/kaggle-organizations/3783/thumbnail.png
+
 - title: AutoML Decathlon
   id: automl-decathlon
   link: https://codalab.lisn.upsaclay.fr/competitions/6325

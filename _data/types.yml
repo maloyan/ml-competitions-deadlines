@@ -12,7 +12,7 @@
   sub: RL
   color: "#ff6800"
 - name: Speech & Signal Processing
-  sub: AUDIO
+  sub: SIGNAL
   color: "#580aff"
 - name: Recommendation System
   sub: RECSYS
