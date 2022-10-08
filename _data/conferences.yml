@@ -1,5 +1,18 @@
 ---
 
+- title: Smarter Mobility Data Challenge
+  id: smarter-mobility-data-challenge
+  link: https://codalab.lisn.upsaclay.fr/competitions/7192
+  date: Oct 03 - Dec 03, 2022
+  timezone: UTC
+  start: 2022-10-03
+  end: 2022-12-03
+  sub: TS
+  prize: "3500$"
+  note: 🌍 Worldwide
+  platform: CodaLab
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/py3-public/logos/99e1b39b-7dff-4f96-946a-bd20862f75b8/Leo.gif
+
 - title: G2Net Detecting Continuous Gravitational Waves
   id: g2net-detecting-continuous-gravitational-waves
   link: https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves

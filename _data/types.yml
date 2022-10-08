@@ -20,3 +20,6 @@
 - name: Meta Learning
   sub: META
   color: "#ff1493"
+- name: Time Series
+  sub: TS
+  color: "#add8e6"
