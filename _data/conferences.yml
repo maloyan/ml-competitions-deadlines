@@ -1,4 +1,55 @@
 ---
+- title: AI4Sea
+  id: ai4sea
+  link: https://dsworks.ru/en/champ/545de8cb-e023-4b64-9be4-b95b9519f8d3
+  date: Oct 10 - Nov 11, 2022
+  timezone: UTC
+  start: 2022-10-10
+  end: 2022-11-11
+  sub: CV
+  prize: "1100000₽ (~15000$)"
+  note: 🌍 Worldwide
+  platform: DsWorks
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+
+- title: AI4Biology
+  id: ai4biology
+  link: https://dsworks.ru/en/champ/545de8cb-e023-4b64-9be4-b95b9519f8d4
+  date: Oct 10 - Nov 11, 2022
+  timezone: UTC
+  start: 2022-10-10
+  end: 2022-11-11
+  sub: CV
+  prize: "1100000₽ (~15000$)"
+  note: 🌍 Worldwide
+  platform: DsWorks
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+
+- title: AI4Talk
+  id: ai4talk
+  link: https://dsworks.ru/en/champ/745de8cb-e023-4b64-9be4-b95b9519f8d3
+  date: Oct 10 - Nov 11, 2022
+  timezone: UTC
+  start: 2022-10-10
+  end: 2022-11-11
+  sub: CV
+  prize: "1100000₽ (~15000$)"
+  note: 🌍 Worldwide
+  platform: DsWorks
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+
+- title: FusionBrain Challenge 2.0
+  id: fusionBrain-challenge-2
+  link: https://dsworks.ru/en/champ/945de8cb-e023-4b64-9be4-b95b9519f8d4
+  date: Oct 10 - Nov 11, 2022
+  timezone: UTC
+  start: 2022-10-10
+  end: 2022-11-11
+  sub: CV
+  prize: "2200000₽ (~30000$)"
+  note: 🌍 Worldwide
+  platform: DsWorks
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
 
 - title: Smarter Mobility Data Challenge
   id: smarter-mobility-data-challenge
