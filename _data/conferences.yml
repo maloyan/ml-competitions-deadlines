@@ -19,7 +19,7 @@
   timezone: UTC
   start: 2022-10-10
   end: 2022-11-11
-  sub: CV
+  sub: TS
   prize: "1100000₽ (~15000$)"
   note: 🌍 Worldwide
   platform: DsWorks
@@ -32,7 +32,7 @@
   timezone: UTC
   start: 2022-10-10
   end: 2022-11-11
-  sub: CV
+  sub: AUDIO
   prize: "1100000₽ (~15000$)"
   note: 🌍 Worldwide
   platform: DsWorks
