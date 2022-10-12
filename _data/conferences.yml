@@ -10,7 +10,7 @@
   prize: "1100000₽ (~15000$)"
   note: 🌍 Worldwide
   platform: DsWorks
-  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png&w=256&q=75
 
 - title: AI4Biology
   id: ai4biology
@@ -23,7 +23,7 @@
   prize: "1100000₽ (~15000$)"
   note: 🌍 Worldwide
   platform: DsWorks
-  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png&w=256&q=75
 
 - title: AI4Talk
   id: ai4talk
@@ -36,7 +36,7 @@
   prize: "1100000₽ (~15000$)"
   note: 🌍 Worldwide
   platform: DsWorks
-  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png&w=256&q=75
 
 - title: FusionBrain Challenge 2.0
   id: fusionBrain-challenge-2
@@ -49,7 +49,7 @@
   prize: "2200000₽ (~30000$)"
   note: 🌍 Worldwide
   platform: DsWorks
-  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png
+  image: https://dsworks.ru/_next/image?url=https%3A%2F%2Fdsworks.s3pd01.sbercloud.ru%2Fstatic%2Fchamp%2Faij22%2Flogo.png&w=256&q=75
 
 - title: Smarter Mobility Data Challenge
   id: smarter-mobility-data-challenge
